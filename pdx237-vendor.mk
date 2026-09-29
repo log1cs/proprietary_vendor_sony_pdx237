@@ -182,6 +182,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx237/proprietary/vendor/camera/version.dat:$(TARGET_COPY_OUT_VENDOR)/camera/version.dat \
     vendor/sony/pdx237/proprietary/vendor/etc/acdbdata/kalama_qrd/Sony_acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/kalama_qrd/Sony_acdb_cal.acdb \
     vendor/sony/pdx237/proprietary/vendor/etc/acdbdata/kalama_qrd/Sony_workspaceFileXml.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/kalama_qrd/Sony_workspaceFileXml.qwsp \
+    vendor/sony/pdx237/proprietary/vendor/etc/audio/sku_kalama/mixer_paths_kalama_qrd.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/sku_kalama/mixer_paths_kalama_qrd.xml \
     vendor/sony/pdx237/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
     vendor/sony/pdx237/proprietary/vendor/etc/display/qdcm_calib_data_9.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/qdcm_calib_data_9.json \
     vendor/sony/pdx237/proprietary/vendor/etc/displayconfig/display_port_131.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_port_131.xml \
@@ -190,6 +191,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx237/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/sony/pdx237/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/sony/pdx237/proprietary/vendor/etc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp_RF.conf \
+    vendor/sony/pdx237/proprietary/vendor/etc/sensors/config/kailua_ak991x_0_somc_product.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/kailua_ak991x_0_somc_product.json \
     vendor/sony/pdx237/proprietary/vendor/etc/wifi/bdwlan.e17:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e17 \
     vendor/sony/pdx237/proprietary/vendor/etc/wifi/bdwlan.e30:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e30 \
     vendor/sony/pdx237/proprietary/vendor/etc/wifi/bdwlan.e31:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bdwlan.e31 \
